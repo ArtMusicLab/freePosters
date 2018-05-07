@@ -1,0 +1,8 @@
+<group>
+	<thresh_with_opencv>0</thresh_with_opencv>
+	<min_contour_area>10</min_contour_area>
+	<max_contour_area>10</max_contour_area>
+	<contour_considered>0</contour_considered>
+	<contour_with_hole>0</contour_with_hole>
+<group/>
+</group>
